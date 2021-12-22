@@ -104,7 +104,7 @@
           <li>
             <h4>Go</h4>
             <a href="https://github.com/gin-gonic/gin">
-              <img height="32" width="32" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
+              <img width="32" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
             </a>
           </li>
         </ul>
