@@ -1,6 +1,13 @@
 <body>
   <h1 align="center">❤ Welcome to my GitHub profile uwu</h1>
   </br>
+  <p>
+    I'm <a href="https://github.com/munehime">Mune</a>, currently a student majoring in Information Technology at
+    University of Information Technology. I'm a back-end developer <a
+      href="https://www.facebook.com/webdevstudios.org">WebDev Studios</a> and my goal is becoming a senior full-stack
+    developer.
+  </p>
+  </br>
   <div align="center">
     <img width="75%" alt="Yae Miko <3"
       src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae-miko.gif">
