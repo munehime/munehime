@@ -2,12 +2,12 @@
   <h1 align="center">❤ Welcome to my GitHub profile uwu</h1>
   </br>
   <div align="center">
-    <img width="75%" alt="Yae Miko <3" src="https://github.com/munehime/munehime/main/assets/gif/yae-miko.gif">
+    <img width="75%" alt="Yae Miko <3" src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae-miko.gif">
   </div>
   </br>
   <div>
     <h2 align="center">🦊 About me</h2>
-    <img align="right" alt="Yae and Ei" src="https://github.com/munehime/munehime/main/assets/gif/yae-and-ei.gif">
+    <img align="right" alt="Yae and Ei" src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae-and-ei.gif">
     <ul>
       <li>
         <b>Name:</b> Trường Thịnh
@@ -168,7 +168,7 @@
   </div>
   <div>
     <h2 align="center">🖥 Currently working on</h2>
-    <img align="right" alt="Yae Guuji" src="https://github.com/munehime/munehime/main/assets/gif/yae-guuji.gif">
+    <img align="right" alt="Yae Guuji" src="https://raw.githubusercontent.com/munehime/main/assets/gif/yae-guuji.gif">
     <ul>
       <li>Vietnam Community League Website</li>
       <li>Resolved Replays Website</li>
@@ -226,7 +226,7 @@
   </div>
   <div>
     <h2 align="center">🔮 Other stuff</h2>
-    <img align="right" alt="Yae Guuji" src="https://github.com/munehime/munehime/main/assets/gif/yae.gif">
+    <img align="right" alt="Yae Guuji" src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae.gif">
     <details>
       <summary>🎮 Games</summary>
       <br />
@@ -312,7 +312,7 @@
   </div>
   <div align="center">
     <h2>❤ Thanks for reading~!</h2>
-    <img alt="Yae and Ei Dance" src="https://github.com/munehime/munehime/main/assets/gif/yae-ei-dance.gif" />
+    <img alt="Yae and Ei Dance" src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae-ei-dance.gif" />
   </div>
   <hr>
 </body>
