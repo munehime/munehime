@@ -3,7 +3,7 @@
   </br>
   <p>
     I'm <a href="https://github.com/munehime">Mune</a>, currently a student majoring in Information Technology at
-    University of Information Technology. I'm a back-end developer <a
+    University of Information Technology. I'm a back-end developer at<a
       href="https://www.facebook.com/webdevstudios.org">WebDev Studios</a> and my goal is becoming a senior full-stack
     developer.
   </p>
