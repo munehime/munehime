@@ -3,7 +3,7 @@
   </br>
   <p>
     I'm <a href="https://github.com/munehime">Mune</a>, currently a student majoring in Information Technology at
-    University of Information Technology. I'm a back-end developer at<a
+    University of Information Technology. I'm a back-end developer at <a
       href="https://www.facebook.com/webdevstudios.org">WebDev Studios</a> and my goal is becoming a senior full-stack
     developer.
   </p>
@@ -162,6 +162,24 @@
             <h4>Version Control</h4>
             <a href="https://git-scm.com">
               <img height="32" width="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+            </a>
+          </li>
+          <li>
+            <h4>Designing and Editing</h4>
+            <a href="https://www.gimp.org">
+              <img width="32" width="32"
+                src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" />
+            </a>
+            <a href="https://www.adobe.com/sea/products/aftereffects.html">
+              <img width="32" width="32"
+                src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" />
+            </a>
+            <a href="https://www.adobe.com/sea/products/photoshop.html">
+              <img width="32" width="32"
+                src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
+            </a>
+            <a href="https://www.blender.org">
+              <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
             </a>
           </li>
           <li>
