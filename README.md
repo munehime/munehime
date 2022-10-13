@@ -1,18 +1,18 @@
 <body>
   <h1 align="center">❤ Welcome to my GitHub profile uwu</h1>
-  </br>
+  <br/>
   <p>
     I'm <a href="https://github.com/munehime">Mune</a>, currently a student majoring in Information Technology at
     University of Information Technology. I'm a back-end developer at <a
       href="https://www.facebook.com/webdevstudios.org">WebDev Studios</a> and my goal is becoming a senior full-stack
     developer.
   </p>
-  </br>
+  <br/>
   <div align="center">
     <img width="75%" alt="Yae Miko <3"
       src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae-miko.gif">
   </div>
-  </br>
+  <br/>
   <div>
     <h2 align="center">🦊 About me</h2>
     <img align="right" width="25%" alt="Yae and Ei"
@@ -32,39 +32,36 @@
           <li>Watching Anime</li>
           <li>Reading Light Novels</li>
           <li>Travelling</li>
+          <li>Cosplaying</li>
         </ul>
       </li>
     </ul>
   </div>
   <div>
-    <h2 align=center>💡 Knoweledge</h2>
+    <h2 align=center>💡 Knowledge</h2>
     <ul>
       <li>
         <h3>Languages</h3>
-        <a href="https://www.rust-lang.org">
+        <a href="https://www.rust-lang.org" title="Rust">
           <img height="32" width="32"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
         </a>
-        <a href="https://go.dev">
+        <a href="https://go.dev" title="Go">
           <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
         </a>
-        <a href="https://www.python.org">
-          <img height="32" width="32"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        </a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp">
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp" title="C#">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </a>
-        <a href="https://www.cplusplus.com">
+        <a href="https://www.cplusplus.com" title="C++">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
         </a>
-        <a href="https://www.typescriptlang.org">
+        <a href="https://www.typescriptlang.org" title="TypeScript">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         </a>
-        <a href="https://www.javascript.com">
+        <a href="https://www.javascript.com" title="JavaScript">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         </a>
@@ -74,36 +71,36 @@
         <ul>
           <li>
             <h4>JavaScript / TypesScript</h4>
-            <a href="https://nextjs.org">
+            <a href="https://nextjs.org" title="Next.js">
               <img height="32" width="32"
                 src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
             </a>
-            <a href="https://reactjs.org">
+            <a href="https://reactjs.org" title="React.js">
               <img height="32" width="32"
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
             </a>
-            <a href="https://nestjs.com">
+            <a href="https://expressjs.com" title="Express.js">
               <img height="32" width="32"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-              <a href="https://expressjs.com">
-                <img height="32" width="32"
-                  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-              </a>
-              <a href="https://nodejs.org/en">
-                <img height="32" width="32"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+            </a>
+            <a href="https://nodejs.org/en" title="Node.JS">
+              <img height="32" width="32"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
               </a>
           </li>
           <li>
             <h4>C#</h4>
-            <a href="https://docs.microsoft.com/en-us/aspnet/core">
+            <a href="https://docs.microsoft.com/en-us/aspnet/core" title=".NET Core">
               <img height="32" width="32"
                 src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
             </a>
           </li>
           <li>
             <h4>Go</h4>
-            <a href="https://github.com/gin-gonic/gin">
+            <a href="https://github.com/gofiber/fiber" title="Fiber">
+              <img width="32" src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" />
+            </a>
+            <a href="https://github.com/gin-gonic/gin" title="Gin">
               <img width="32" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
             </a>
           </li>
@@ -111,28 +108,28 @@
       </li>
       <li>
         <h3>Databases</h3>
-        <a href="https://www.mysql.com">
+        <a href="https://www.mysql.com" title="MySQL">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
         </a>
-        <a href="https://www.mongodb.com">
+        <a href="https://www.mongodb.com" title="MongoDB">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         </a>
       </li>
       <li>
         <h3>DevOps</h3>
-        <a href="https://caddyserver.com">
+        <a href="https://caddyserver.com" title="Caddy Server">
           <img height="32" width="32" src="https://caddyserver.com/resources/images/caddy-circle-lock.svg" />
         </a>
-        <a href="https://www.nginx.com">
+        <a href="https://www.nginx.com" title="NGINX">
           <img height="32" width="32" src="https://avatars.githubusercontent.com/u/1412239" />
         </a>
-        <a href="https://www.linux.org">
+        <a href="https://www.linux.org" title="Linux">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         </a>
-        <a href="https://www.docker.com">
+        <a href="https://www.docker.com" title="Docker">
           <img height="32" width="32"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
         </a>
@@ -142,49 +139,57 @@
         <ul>
           <li>
             <h4>IDEs and Text Editors</h4>
-            <a href="https://neovim.io">
-              <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" />
+            <a href="https://www.jetbrains.com/go" title="GoLand" >
+              <img height="32" width="32"
+                src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" />
             </a>
-            <a href="https://www.jetbrains.com/rider">
+            <a href="https://www.jetbrains.com/rider" title="WebStorm">
+              <img height="32" width="32"
+                src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
+            </a>
+            <a href="https://www.jetbrains.com/rider" title="Rider" >
               <img height="32" width="32"
                 src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
             </a>
-            <a href="https://www.jetbrains.com/clion">
+            <a href="https://www.jetbrains.com/clion" title="CLion">
               <img height="32" width="32"
                 src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />
             </a>
-            <a href="https://code.visualstudio.com">
+            <a href="https://neovim.io" title="Neovim" title="Neovim">
+              <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" />
+            </a>
+            <a href="https://code.visualstudio.com" title="Visual Studio Code">
               <img height="32" width="32"
                 src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
             </a>
           </li>
           <li>
             <h4>Version Control</h4>
-            <a href="https://git-scm.com">
+            <a href="https://git-scm.com" title="Git">
               <img height="32" width="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
             </a>
           </li>
           <li>
             <h4>Designing and Editing</h4>
-            <a href="https://www.gimp.org">
+             <a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere Pro">
               <img width="32" width="32"
-                src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" />
+                src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" />
             </a>
-            <a href="https://www.adobe.com/sea/products/aftereffects.html">
+            <a href="https://www.adobe.com/products/aftereffects.html" title="Adobe After Effects">
               <img width="32" width="32"
                 src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" />
             </a>
-            <a href="https://www.adobe.com/sea/products/photoshop.html">
+            <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop">
               <img width="32" width="32"
                 src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
             </a>
-            <a href="https://www.blender.org">
+            <a href="https://www.blender.org" title="Blender">
               <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
             </a>
           </li>
           <li>
             <h4>Miscellaneous</h4>
-            <a href="https://www.postman.com">
+            <a href="https://www.postman.com" title="Postman">
               <img height="32" width="32"
                 src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
             </a>
@@ -200,9 +205,8 @@
     <ul>
       <li>Vietnam Community League Website</li>
       <li>Resolved Replays Website</li>
-      <li>W.E Charity Website</li>
       <li>osu! Storyboards</li>
-      <li>Some random stuff XD</li>
+      <li>Some random stuff :3</li>
     </ul>
   </div>
   <div align="center">
@@ -261,11 +265,11 @@
       <summary>🎮 Games</summary>
       <br />
       <ul>
-        <li>osu!</li>
-        <li>Areaca</li>
-        <li>Muse Dash</li>
+        <li>maimai</li>
+        <li>CHUNITHM</li>
+        <li>Arcaea</li>
+        <li>Phigros</li>
         <li>Genshin Impact</li>
-        <li>Counter-Strike: Global Offensive</li>
       </ul>
     </details>
     <details>
@@ -279,65 +283,6 @@
         <li>xi</li>
         <li>(...still updating)</li>
       </ul>
-    </details>
-    <details>
-      <summary>👧 Favorite Characters</summary>
-      <br />
-      <table>
-        <tr>
-          <th>Avatar</th>
-          <th>Name</th>
-          <th>From</th>
-        </tr>
-        <tr>
-          <td align="center">
-            <img height="32" width="32"
-              src="https://genshindb.org/wp-content/uploads/2021/06/Characters-Yae-Guuji-1.jpg" />
-          </td>
-          <td>Yae Miko</td>
-          <td>Genshin Impact</td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img height="32" width="32"
-              src="https://genshindb.org/wp-content/uploads/2021/01/Character-Ningguang-.png" />
-          </td>
-          <td>Ningguang</td>
-          <td>Genshin Impact</td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img height="32" width="32"
-              src="https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/avatars/char_147_shining_2.png" />
-          </td>
-          <td>Shining</td>
-          <td>Arknights</td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img height="32" width="32"
-              src="https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/avatars/char_340_shwaz_snow%231.png" />
-          </td>
-          <td>Schwarz</td>
-          <td>Arknights</td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img width="32"
-              src="https://azurlane.netojuu.com/w/images/thumb/0/06/ShoukakuShipyardIcon.png/161px-ShoukakuShipyardIcon.png" />
-          </td>
-          <td>Shoukaku</td>
-          <td>Azur Lane</td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img width="32"
-              src="https://azurlane.netojuu.com/w/images/thumb/8/8f/HieiShipyardIcon.png/161px-HieiShipyardIcon.png" />
-          </td>
-          <td>Hiei</td>
-          <td>Azur Lane</td>
-        </tr>
-      </table>
     </details>
   </div>
   <div align="center">
