@@ -226,7 +226,7 @@
     </a>
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to source">
       <img width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=munehime&theme=material-palenight&hide_border=true">
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=munehime&theme=material-palenight&hide_border=true">
     </a>
   </div>
   <div align="center">
