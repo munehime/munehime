@@ -1,16 +1,15 @@
 <body>
-  <h1 align="center">❤ Welcome to my GitHub profile uwu</h1>
+  <h1 align="center">Welcome to my GitHub profile</h1>
   <br/>
   <p>
     I'm <a href="https://github.com/munehime">Mune</a>, currently a student majoring in Information Technology at
-    University of Information Technology. I'm a back-end developer at <a
-      href="https://www.facebook.com/webdevstudios.org">WebDev Studios</a> and my goal is becoming a senior full-stack
+    University of Information Technology. I'm a back-end developer and my goal is becoming a senior full-stack
     developer.
   </p>
   <br/>
   <div align="center">
-    <img width="75%" alt="Yae Miko <3"
-      src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae-miko.gif">
+    <img width="100%" alt="Banner"
+      src="https://assets.mune.moe/images/munehime_banner_02.png">
   </div>
   <br/>
   <div>
@@ -67,10 +66,22 @@
         </a>
       </li>
       <li>
-        <h3>Frameworks and Libraries</h3>
+        <h3>Web Frameworks and Libraries</h3>
         <ul>
           <li>
             <h4>JavaScript / TypesScript</h4>
+            <a href="https://svelte.dev" title="Svelte & Svelte Kit">
+              <img height="32" width="32"
+                  src="https://avatars.githubusercontent.com/u/23617963" />
+            </a>
+            <a href="https://nuxt.com" title="Nuxt">
+              <img height="32" width="32"
+                  src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" />
+            </a>
+            <a href="https://vuejs.org" title="Vue.js">
+              <img height="32" width="32"
+                  src="https://avatars.githubusercontent.com/u/6128107" />
+            </a>
             <a href="https://nextjs.org" title="Next.js">
               <img height="32" width="32"
                 src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
@@ -98,10 +109,16 @@
           <li>
             <h4>Go</h4>
             <a href="https://github.com/gofiber/fiber" title="Fiber">
-              <img width="32" src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" />
+              <img width="32" src="https://gofiber.io/assets/images/logo.svg" />
             </a>
             <a href="https://github.com/gin-gonic/gin" title="Gin">
               <img width="32" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
+            </a>
+          </li>
+          <li>
+            <h4>Rust</h4>
+            <a href="https://github.com/tokio-rs/axum" title="axum">
+              <img width="32" src="https://avatars.githubusercontent.com/u/20248544" />
             </a>
           </li>
         </ul>
@@ -139,24 +156,25 @@
         <ul>
           <li>
             <h4>IDEs and Text Editors</h4>
-            <a href="https://www.jetbrains.com/go" title="GoLand" >
-              <img height="32" width="32"
-                src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" />
-            </a>
             <a href="https://www.jetbrains.com/rider" title="WebStorm">
               <img height="32" width="32"
                 src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
-            </a>
-            <a href="https://www.jetbrains.com/rider" title="Rider" >
-              <img height="32" width="32"
-                src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
             </a>
             <a href="https://www.jetbrains.com/clion" title="CLion">
               <img height="32" width="32"
                 src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />
             </a>
-            <a href="https://neovim.io" title="Neovim" title="Neovim">
-              <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" />
+            <a href="https://www.jetbrains.com/go" title="GoLand" >
+              <img height="32" width="32"
+                src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" />
+            </a>
+            <a href="https://www.jetbrains.com/rider" title="Rider" >
+              <img height="32" width="32"
+                src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
+            </a>
+            <a href="https://www.jetbrains.com/datagrip" title="DataGrip" >
+              <img height="32" width="32"
+                src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" />
             </a>
             <a href="https://code.visualstudio.com" title="Visual Studio Code">
               <img height="32" width="32"
@@ -185,6 +203,9 @@
             </a>
             <a href="https://www.blender.org" title="Blender">
               <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />
+            </a>            
+            <a href="https://www.maxon.net/en/cinema-4d" title="Cinema 4D">
+              <img height="32" src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" />
             </a>
           </li>
           <li>
@@ -204,7 +225,7 @@
       src="https://raw.githubusercontent.com/munehime/munehime/main/assets/gif/yae-guuji.gif">
     <ul>
       <li>Vietnam Community League Website</li>
-      <li>Resolved Replays Website</li>
+      <li>Selenadia Projects</li>
       <li>osu! Storyboards</li>
       <li>Some random stuff :3</li>
     </ul>
@@ -217,16 +238,16 @@
     </a>
     <br />
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to source">
-      <img align="left" width="47%"
+      <img align="left" width="48%"
         src="https://github-readme-stats.vercel.app/api?username=munehime&theme=tokyonight&show_icons=true&hide_border=true" />
     </a>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to source">
-      <img align="right" width="46%"
-        src="http://github-readme-streak-stats.herokuapp.com?user=munehime&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      <img align="right" width="48%"
+        src="https://streak-stats.demolab.com?user=munehime&theme=tokyonight&hide_border=true" />
     </a>
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to source">
       <img width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=munehime&theme=material-palenight&hide_border=true">
+        src="https://github-readme-activity-graph.vercel.app/graph?username=munehime&theme=material-palenight&hide_border=true">
     </a>
   </div>
   <div align="center">
@@ -243,11 +264,14 @@
     <a href="https://www.facebook.com/truongthinh295">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
+    <a href="https://discord.com/users/203699280261808138">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
     <a href="https://twitter.com/munehime2905">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <br />
-    <a href="https://www.youtube.com/c/Munehime">
+    <a href="https://www.youtube.com/@Munehime">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
     <a href="https://www.twitch.tv/munehime">
@@ -278,6 +302,7 @@
       <ul>
         <li>a_hisa</li>
         <li>Camellia</li>
+        <li>Laur</li>
         <li>Sakuzyo</li>
         <li>USAO</li>
         <li>xi</li>
