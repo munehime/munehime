@@ -9,7 +9,7 @@
   <br/>
   <div align="center">
     <img width="100%" alt="Banner"
-      src="https://assets.mune.moe/images/munehime_banner_02.png">
+      src="https://assets.mune.moe/images/banners/mune_banner_02.png">
   </div>
   <br/>
   <div>
