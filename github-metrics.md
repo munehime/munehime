@@ -4,4 +4,5 @@
 
 <img src="https://github.com/munehime/munehime/blob/main/.cache/base.svg">
 <img src="https://github.com/munehime/munehime/blob/main/.cache/isocalendar.svg">
+<img src="https://github.com/munehime/munehime/blob/main/.cache/languages.svg">
 <img src="https://github.com/munehime/munehime/blob/main/.cache/achievements.svg">
