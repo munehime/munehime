@@ -21,7 +21,7 @@ jobs:
           template: classic
           filename: assets/metrics/github.svg
           base: header, activity, community, repositories
-          config_order: base.header, base.repositories, base.activity, base.community, isocalendar, notable, lines, languages, followup, habits
+          config_order: base.header, base.repositories, base.activity+community, isocalendar, notable, languages, followup, habits 
           config_timezone: Asia/Ho_Chi_Minh
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -55,10 +55,37 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: history
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
+
+      - uses: lowlighter/metrics@main
+        with:
+          token: NOT_NEEDED
+          template: classic
+          filename: assets/metrics/personal.svg
+          base: ""
+          config_order: wakatime, music
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_music: no
+          plugin_music_limit: 8
+          plugin_music_mode: top
+          plugin_music_provider: spotify
+          plugin_music_time_range: long
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_top_type: tracks
+          plugin_music_user: .user.login
+          plugin_steam: no
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_limit: 1
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: ${{ secrets.STEAM_ID }}
+          plugin_wakatime: yes
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
