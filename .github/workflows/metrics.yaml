@@ -59,13 +59,20 @@ jobs:
           plugin_notable_from: all
           plugin_notable_types: commit
 
+  personal-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
       - uses: lowlighter/metrics@main
         with:
           token: NOT_NEEDED
           template: classic
           filename: assets/metrics/personal.svg
           base: ""
-          config_order: wakatime, music
+          config_order: wakatime, music, steam
           config_timezone: Asia/Ho_Chi_Minh
           plugin_music: yes
           plugin_music_limit: 8
@@ -75,7 +82,7 @@ jobs:
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_top_type: tracks
           plugin_music_user: .user.login
-          plugin_steam: no
+          plugin_steam: yes
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
