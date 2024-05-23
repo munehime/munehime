@@ -2260,20 +2260,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.2mb of code in 3385 edited files across 150 commits</small>
+                <small>estimation from 14.2mb of code in 3386 edited files across 151 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="17.504413688590635" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="17.504413688590635" y="0" width="5.882217509581013" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="23.386631198171646" y="0" width="3.9530497842407772" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="27.339680982412425" y="0" width="2.520732553874729" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="29.86041353628715" y="0" width="1.0906093343763912" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="30.95102287066354" y="0" width="0.8950448741511647" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="31.846067744814707" y="0" width="0.6786930906200053" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="32.52476083543471" y="0" width="427.4752391645653" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="17.504316049625434" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="17.504316049625434" y="0" width="5.882184698791636" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="23.38650074841707" y="0" width="3.9530277342768554" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="27.339528482693925" y="0" width="2.5207184933227746" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="29.8602469760167" y="0" width="1.0906032509982937" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="30.950850227014996" y="0" width="0.8950398816243156" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="31.845890108639306" y="0" width="0.678689304895317" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="32.524579413534624" y="0" width="427.4754205864654" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2967,7 +2967,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.08040201005025 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.859296482412056 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2989,10 +2989,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">73</div>
+                                        <div class="value">74</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 73 times</div>
+                                <div class="text">Repositories have been deployed 74 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
