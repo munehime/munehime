@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2060" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1508" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.blue{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.blue{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -135,7 +135,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            881 Commits
+                            883 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2260,20 +2260,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.2mb of code in 3387 edited files across 152 commits</small>
+                <small>estimation from 14.2mb of code in 3388 edited files across 153 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="17.504099549718475" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="17.504099549718475" y="0" width="5.882111945738251" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="23.386211495456724" y="0" width="3.952978841756047" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="27.339190337212774" y="0" width="2.52068731613666" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="29.859877653349432" y="0" width="1.0905897620106801" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="30.95046741536011" y="0" width="0.8950288114373658" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="31.845496226797476" y="0" width="0.6786809106129612" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="32.52417713741044" y="0" width="427.47582286258955" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.47885864097796" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="244.47885864097796" y="0" width="82.15515518567068" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="326.63401382664864" y="0" width="55.21105228631979" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="381.8450661129684" y="0" width="35.20631017262423" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="417.0513762855927" y="0" width="15.232211145999518" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="432.2835874315922" y="0" width="12.500821401836554" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.78440883342876" y="0" width="9.479101392036185" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.2635102254649" y="0" width="5.736489774535075" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2286,7 +2286,7 @@
                             </div>
                             <small>
                                 <div>470 kB</div>
-                                <div>3.81%</div>
+                                <div>53.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2298,7 +2298,7 @@
                             </div>
                             <small>
                                 <div>106 kB</div>
-                                <div>0.86%</div>
+                                <div>12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2310,7 +2310,7 @@
                             </div>
                             <small>
                                 <div>29.3 kB</div>
-                                <div>0.24%</div>
+                                <div>3.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2322,7 +2322,7 @@
                             </div>
                             <small>
                                 <div>18.2 kB</div>
-                                <div>0.15%</div>
+                                <div>2.06%</div>
                             </small>
                         </div>
                     </section>
@@ -2336,7 +2336,7 @@
                             </div>
                             <small>
                                 <div>158 kB</div>
-                                <div>1.28%</div>
+                                <div>17.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2348,7 +2348,7 @@
                             </div>
                             <small>
                                 <div>67.7 kB</div>
-                                <div>0.55%</div>
+                                <div>7.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2360,7 +2360,7 @@
                             </div>
                             <small>
                                 <div>24 kB</div>
-                                <div>0.19%</div>
+                                <div>2.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2368,11 +2368,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Other
+                                TSX
                             </div>
                             <small>
-                                <div>11.5 MB</div>
-                                <div>92.93%</div>
+                                <div>11 kB</div>
+                                <div>1.25%</div>
                             </small>
                         </div>
                     </section>
@@ -2653,365 +2653,6 @@
                     </section>
                 </div>
             </div>
-            <section class="habits">
-                <h2 class="field wrap">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
-                    </svg>
-                    Recent coding habits
-                    <small class="h-details">(computed from last 25 commits)</small>
-                </h2>
-                <div class="row">
-                    <ul class="facts">
-                        <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.6 characters per line of code written</li>
-                        <li>Mostly pushes code around 00:00</li>
-                        <li>Mostly active on Sunday</li>
-                    </ul>
-                </div>
-            </section>
-            <section class="habits">
-                <div class="column chart largeable">
-                    <h3>Commit activity per hour of day</h3>
-                    <div class="row margin-bottom">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160">
-                            <g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                                <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
-                                <g class="tick" opacity="1" transform="translate(10.5,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">0</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(30.065217391304348,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">1</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(49.630434782608695,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(69.19565217391305,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">3</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(88.76086956521739,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">4</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(108.32608695652173,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">5</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(127.8913043478261,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">6</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(147.45652173913044,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">7</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(167.02173913043478,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">8</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(186.58695652173913,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">9</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(206.15217391304347,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">10</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(225.7173913043478,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">11</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(245.2826086956522,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(264.8478260869565,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">13</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(284.4130434782609,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">14</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(303.9782608695652,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">15</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(323.54347826086956,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">16</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(343.10869565217394,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">17</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(362.67391304347825,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">18</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(382.2391304347826,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">19</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(401.80434782608694,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">20</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(421.3695652173913,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">21</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(440.9347826086956,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">22</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(460.5,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">23</text>
-                                </g>
-                            </g>
-                            <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,10.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,34.25)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">3</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,58)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,81.75)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,105.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
-                                </g>
-                            </g>
-                            <path transform="translate(10,10)" d="M10,10L29.565,33.75L49.13,105L68.696,81.25L88.261,57.5L107.826,105L127.391,81.25L146.957,81.25L166.522,81.25L186.087,57.5L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,57.5L323.043,105L342.609,33.75L362.174,81.25L381.739,105L401.304,57.5L420.87,57.5L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,57.5L401.304,57.5L381.739,105L362.174,81.25L342.609,33.75L323.043,105L303.478,57.5L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,57.5L166.522,81.25L146.957,81.25L127.391,81.25L107.826,105L88.261,57.5L68.696,81.25L49.13,105L29.565,33.75L10,10Z" fill="rgba(88, 166, 255, .1)"/>
-                            <g>
-                                <circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="33.75" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="68.69565217391305" cy="81.25" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="88.26086956521739" cy="57.5" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="127.3913043478261" cy="81.25" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="146.95652173913044" cy="81.25" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="166.52173913043478" cy="81.25" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="57.5" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="225.2173913043478" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="303.4782608695652" cy="57.5" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="342.60869565217394" cy="33.75" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="362.17391304347825" cy="81.25" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="57.5" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="420.8695652173913" cy="57.5" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="440.4347826086956" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc"/>
-                            </g>
-                            <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">4</text>
-                                <text transform="translate(10,6)" x="29.565217391304348" y="33.75" fill="rgba(127, 127, 127, .8)">3</text>
-                                <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="68.69565217391305" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="88.26086956521739" y="57.5" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="127.3913043478261" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="146.95652173913044" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="166.52173913043478" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="186.08695652173913" y="57.5" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="225.2173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="264.3478260869565" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="303.4782608695652" y="57.5" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="342.60869565217394" y="33.75" fill="rgba(127, 127, 127, .8)">3</text>
-                                <text transform="translate(10,6)" x="362.17391304347825" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
-                                <text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="401.30434782608694" y="57.5" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="420.8695652173913" y="57.5" fill="rgba(127, 127, 127, .8)">2</text>
-                                <text transform="translate(10,6)" x="440.4347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)"/>
-                            </g>
-                        </svg>
-                    </div>
-                </div>
-                <div class="row largeable">
-                    <section class="column chart">
-                        <h3>Commit activity per day of week</h3>
-                        <div class="margin-bottom">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
-                                <g transform="translate(10,115)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                                    <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H196.5"/>
-                                    <g class="tick" opacity="1" transform="translate(10.5,0)">
-                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sun</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(41.5,0)">
-                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(72.5,0)">
-                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(103.5,0)">
-                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(134.5,0)">
-                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(165.5,0)">
-                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(196.5,0)">
-                                        <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                        <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat</text>
-                                    </g>
-                                </g>
-                                <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                    <g class="tick" opacity="1" transform="translate(0,21.05555555555556)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">8</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(0,42.16666666666667)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">6</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(0,63.27777777777778)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(0,84.3888888888889)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(0,105.5)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
-                                    </g>
-                                </g>
-                                <path transform="translate(10,10)" d="M10,10L41,105L72,52.222L103,73.333L134,73.333L165,94.444L196,62.778" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,62.778L165,94.444L134,73.333L103,73.333L72,52.222L41,105L10,10Z" fill="rgba(88, 166, 255, .1)"/>
-                                <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="41" cy="105" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="52.22222222222222" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="103" cy="73.33333333333334" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="134" cy="73.33333333333334" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="94.44444444444444" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="196" cy="62.77777777777778" r="2" fill="#106cbc"/>
-                                </g>
-                                <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">9</text>
-                                    <text transform="translate(10,6)" x="41" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                    <text transform="translate(10,6)" x="72" y="52.22222222222222" fill="rgba(127, 127, 127, .8)">5</text>
-                                    <text transform="translate(10,6)" x="103" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">3</text>
-                                    <text transform="translate(10,6)" x="134" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">3</text>
-                                    <text transform="translate(10,6)" x="165" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">1</text>
-                                    <text transform="translate(10,6)" x="196" y="62.77777777777778" fill="rgba(127, 127, 127, .8)">4</text>
-                                </g>
-                            </svg>
-                        </div>
-                    </section>
-                    <section class="column chart">
-                        <h3>Language activity</h3>
-                        <div class="margin-bottom">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
-                                <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#e34c26" d="M0.5,-79.998A80,80,0,0,1,0.678,-79.997L0,0Z">
-                                        <title>HTML
-0.01</title>
-                                    </path>
-                                    <path fill="#3178c6" d="M1.678,-79.982A80,80,0,0,1,80,-0.17L0,0Z">
-                                        <title>TypeScript
-6.94</title>
-                                    </path>
-                                    <path fill="#563d7c" d="M79.996,0.83A80,80,0,0,1,79.655,7.42L0,0Z">
-                                        <title>CSS
-0.37</title>
-                                    </path>
-                                    <path fill="#ff3e00" d="M79.556,8.415A80,80,0,1,1,-22.155,-76.871L0,0Z">
-                                        <title>Svelte
-19.40</title>
-                                    </path>
-                                    <path fill="#f1e05a" d="M-21.193,-77.142A80,80,0,0,1,-12.301,-79.049L0,0Z">
-                                        <title>JavaScript
-0.51</title>
-                                    </path>
-                                    <path fill="#384d54" d="M-11.312,-79.196A80,80,0,0,1,-10.959,-79.246L0,0Z">
-                                        <title>Dockerfile
-0.02</title>
-                                    </path>
-                                    <path fill="#41b883" d="M-9.967,-79.377A80,80,0,0,1,-6.418,-79.742L0,0Z">
-                                        <title>Vue
-0.20</title>
-                                    </path>
-                                    <path fill="#89e051" d="M-5.421,-79.816A80,80,0,0,1,-2.392,-79.964L0,0Z">
-                                        <title>Shell
-0.17</title>
-                                    </path>
-                                    <path fill="#012456" d="M-1.392,-79.988A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <title>PowerShell
-0.05</title>
-                                    </path>
-                                </g>
-                                <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(0.29459932654353826,-39.9989151257481)">
-                                        <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
-                                    </text>
-                                    <text transform="translate(28.549631255850827,-28.016397968956422)">
-                                        <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
-                                        <tspan x="0" y="1.1em">6.94</tspan>
-                                    </text>
-                                    <text transform="translate(39.9466993973155,2.064269183152651)">
-                                        <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
-                                    </text>
-                                    <text transform="translate(-25.700931103347596,30.650646655837136)">
-                                        <tspan x="0" y="0em" font-weight="bold">Svelte</tspan>
-                                        <tspan x="0" y="1.1em">19.40</tspan>
-                                    </text>
-                                    <text transform="translate(-8.386974802141129,-39.110850843062074)">
-                                        <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                    </text>
-                                    <text transform="translate(-5.567634582399935,-39.610622882717514)">
-                                        <tspan x="0" y="0em" font-weight="bold">Dockerfile</tspan>
-                                    </text>
-                                    <text transform="translate(-4.097328067096804,-39.78959540772664)">
-                                        <tspan x="0" y="0em" font-weight="bold">Vue</tspan>
-                                    </text>
-                                    <text transform="translate(-1.9534763724898538,-39.952270649640475)">
-                                        <tspan x="0" y="0em" font-weight="bold">Shell</tspan>
-                                    </text>
-                                    <text transform="translate(-0.47299892573030256,-39.99720330243426)">
-                                        <tspan x="0" y="0em" font-weight="bold">PowerShell</tspan>
-                                    </text>
-                                </g>
-                            </svg>
-                        </div>
-                    </section>
-                </div>
-            </section>
             <section>
                 <h2 class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3226,7 +2867,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.19597989949749 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.7537688442211 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3248,10 +2889,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">77</div>
+                                        <div class="value">79</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 77 times</div>
+                                <div class="text">Repositories have been deployed 79 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3455,7 +3096,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.83m out of 206m repositories</span>
+                                    <span class="gh">ranked 1.83m out of 200m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
@@ -3542,7 +3183,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.26m out of 206m repositories</span>
+                                    <span class="gh">ranked 5.26m out of 200m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
