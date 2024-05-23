@@ -66,7 +66,7 @@ jobs:
           config_order: wakatime, music, steam
           config_timezone: Asia/Ho_Chi_Minh
           plugin_music: yes
-          plugin_music_limit: 16
+          plugin_music_limit: 12
           plugin_music_mode: top
           plugin_music_provider: spotify
           plugin_music_time_range: shorts
@@ -75,6 +75,7 @@ jobs:
           plugin_music_user: .user.login
           plugin_steam: yes
           plugin_steam_achievements_limit: 3
+          plugin_steam_games_ignored: ""
           plugin_steam_games_limit: 3
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 2
