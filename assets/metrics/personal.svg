@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1662" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1369" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img,.track img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .value{background-color:#58a6ff26;border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap;margin-left:46px}.achievement.x .value{background-color:#b0b0b026}.achievement.b .value{background-color:#9e91ff26}.achievement.a .value{background-color:#e7bd6926}.achievement.s .value{background-color:#eb355e26}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img,.track img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.achievement{display:flex;margin:4px 0}.achievement .value{background-color:#58a6ff26;border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap;margin-left:46px}.achievement.x .value{background-color:#b0b0b026}.achievement.b .value{background-color:#9e91ff26}.achievement.a .value{background-color:#e7bd6926}.achievement.s .value{background-color:#eb355e26}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -61,27 +61,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">app_custom_americantourister</span>
-                                <div class="bar" style="width: 14.680000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 14.752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">maimai-favorite</span>
-                                <div class="bar" style="width: 9.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">samsonite-sfra</span>
-                                <div class="bar" style="width: 8.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">form-auth</span>
-                                <div class="bar" style="width: 6.5200000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ss20-6817</span>
-                                <div class="bar" style="width: 5.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.792000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                         </div>
@@ -91,27 +91,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 60.656%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 60.56%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">76%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 5.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 5.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 2.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.112%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -391,42 +391,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            56 / 101 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwcE/8QALBAAAgEDAwEHBAMBAAAAAAAAAQIDBAURAAYSIQcTIjFBUWFxgZGhFDJCsf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIhEAAgIABAcAAAAAAAAAAAAAAQIAAwQRITESEyJBYdHw/9oADAMBAAIRAxEAPwDOrDsm1XLblIZYB37xBjIhIIJHn8/fSLd7E1muj0tZEvexEMpI8Eq56MPg623s0jin2ba6gLIV7oLxI6llyD+wdDN3WdN3oymeChpaOZoxXuC7u4/ukagjKjoCzEDIwPLWHUnYyjD3LW3WuYMRy+35rVG1BbqUVj+F0deXc+5J9fgev50DqbDHVUdZVUsJWGmQlnH+39h+cnRSr23PZrpT26mqDUUtTKkf8sxd3xZvMkZOenzps3NHBZ9qNT0UTGBI3jOT5ZGSzfU/s6WFdn4mOgltl2HqwvKqXN21JI2HYD38GLsgeVNiUMTZL5fiCc8VLE9Pt/3S9BM0Fur7RVSRJXU88y8Jz4eDyFlYD1Uhvzri7Ot+22z7Xp6G4VDLOrMCQM4XPhHTRG87h2df5kir5oJGXPGVgVx8BtPnLHmDnEXOgtMNSlVWPUJI7jr3aI3L3PEDGNWdozLHY5w7sqk8R3fVST7+3ljUYL7tS1JKtuaEY68o8lnx6ZOlvdW7aG60VRTxByHTwsRjJGMfTQAhY5z/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>ON OUR WAY</div>
-                                                <div class="unlocked">5 Jul 2024</div>
-                                            </div>
-                                            <div class="description">Earn a silver medal on any official survival map.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgMEAQIFCP/EACYQAAIBAwQBBAMBAAAAAAAAAAECAwQRIQAFEjFREyIyYQYUQXH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwEEBQb/xAAhEQACAgIBBAMAAAAAAAAAAAABAgADBBJBBRExcULB8P/aAAwDAQACEQMRAD8A837bQpLApmS5+Skf36Orsu300g5xxggmzfR1tsq+tFAFvgWz510f03o93mjKyNTtGsjcELDPQwPrVOwsrbCdBiLTdSKbAAT8j9/vHqRUm00kVMZaiFDi+R0NGt3g4ztIkQjiY+1QOtN3Ra2nd45FKRtZl/oP2Oxo7vi8aRhxvnvxoccsTs/kx/WTjqi4+MBqvI5PuTfjsno0SORleRGku4bhT10O3rVh5qZUJWCAN7ZAB8lB9wfsk5wACANA9r3EU4EcvwHR8avjcKfgIVlAiBwQeLAd2vYgjxpzKdu8xlsU19oorpo6uCk3OFPRmCpDIOPHkpFrH/CME5xozv0iimbJu2BrM29Rsix3UInuAXPJrWuxxc2wBYAXPknXEr61qp/CjoalEIMFrRoRzP/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>GETTING STARTED</div>
-                                                <div class="unlocked">5 Jul 2024</div>
-                                            </div>
-                                            <div class="description">Earn a bronze medal on any official Survival map.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgMFBwj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMEBREAEiEGMVETIkFCYXGBMmLh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAAL/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADESExE//aAAwDAQACEQMRAD8A86We309RHTLWxtAkj5NQQxyv2Xsf1phX9JdKtQmW23CrM0aFiHCuHwPC8jWFYHnmtUNLIzPDuyin3bD/AF8H8aa2Xp2KSriSslSNGDSShHAMarzuc9gP91I14DlR2KL9yAJLREq59NeedQrrQ6U1RItLLtgO12VP4k5wD47ae9SUMNL6BhgaNXh37cknBJ2k55BI92PgHzo71RBDRWwVFrrpJFmjCVMbdwx+eO6nz31zUWZunYF3ZLpGQQ08UoAdl+kk4/BxprZ56dmWStEfopJvWJRgPJ9wPpHjt2HzrmNjuUdHTFZGwc5GtJeoIQgIJBzjnvjU1tVn0JAgZc89i6/3F6+seqK8yNyG4wo7DQzqJo3SdoovRRskRhywX9nVHvsUqkbuB8k6ybnXJLCyo+WOmUo6kDJlBn//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>ROCKY HORROR PICTURE THROW</div>
-                                                <div class="unlocked">19 Oct 2023</div>
-                                            </div>
-                                            <div class="description">Destroy a Tank's rock in mid-air.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+53 others...</div>
+                                            0 / 101 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -526,42 +491,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            44 / 51 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgE/8QAKxAAAQQBBAEEAQMFAAAAAAAAAQIDBAURAAYSITEHE0FRIggUFSM0Q2Fy/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwB131rV7Y2q/c2yCIsZCSvgnKlFSglIH+ySB2QNSfuaiPtmZeyG0txIbK3n0kglHEZKeus+B19jVi5AiWlIqDYxmpUN9vg6y6nklaT8Eaz760UcTYe2FVkLcFiaKfxD9MpoO+2ArIdbUOPtjkAMK6UQR3qqpSAZu+lLlnbbGr7TcyWjPnlcpKEthHtMrVltHQGcJx35770UTYbIiOqSyOk+QPGlBtO9sfVOyS1U3dpt2mrquMX24IbbddkOZ8Z5YQEp6x9jRlA9PoVTKRZO3W5LKWwCpBn2a3EZII7QMJPn60GJGcEgQ2io4SE5J+hrOHqo5cXG62wwlwqtW/4eTVRlc0y0MqW7zCinISEK5fjk5KcE505LGDZ2PF1ncRrmo6ecVmIyCVrx/n5nDicZHAcR3nOQMCe3Nr3VtMG4twzItLZMx1Q62sYbS6zDYUf6gcGfyU53nioEA9H6IsOVZ+nHZFrt92wtZy32a95r9rFiSEo94AOciVlPwDnAOO1K6Hy6p39o7/zoLr6O2r0tuQtzRWHGk+03DTDJhBvycoK+ZcKuy5zz8YxrsYiW0WQ7JkbkbntvjMiM5FCEIwMD2OKso+MhRXnz0dAyLt//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Empty Gesture</div>
-                                                <div class="unlocked">24 Feb 2020</div>
-                                            </div>
-                                            <div class="description">Drop your co-op partner in goo while they are gesturing by removing the bridge under them</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBQgD/8QAKxAAAgICAQMDAwMFAAAAAAAAAQIDBAURBgASIQcTMRRBYSIyURUjUnGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAhEQL/2gAMAwEAAhEDEQA/AHLynN4viHDbWeysLPWqxqWSMDvdmYKqjfjZJHQdn+fY23wPH824xdrf0+laDXqNhkiksJ2kPB5+JRsMoH7tfcHqi9b8/ByHh+X4tQpXpJKMkUmQugIsFRVIYFmZh3E9w/SPIGz+Oln6NZTC4/knHYbGOq3fZaeHdTbCW0FZkmb3Sqg9pZRoAfffgdaPrbMMtTTZXEQ8cjzkqsmPkiSZS0RDkPrtHb8gkkDXQL6aepOO5xQ9qzjhjcrMk09euCXEleNgvud2vHkka+5Vtdc+e8skz3F44q+Hy0FO68bRTEwLJKwcMO0GT9KgDfcR58AfO+gz014zlcVyaDK/S3jYhC4m7JaWNgyEGSWQf3Cyks8fgKfhtnydXr2cyYtPgt61kOUyz361bH5iZZEC1knk7TXSN9lv2HanWt/Y9Jv039JcrkuSWbD261GPHZER3fb0ZYrESuCVjI0Q/crjfjTH+OtQUrUAqxAyqDrXk/HQp6f1pa+W5dmMpF9NZyuVZoo3+fp4kWOIkfkAn/vR87QYd41iMlyHL5elmLGHebj1pK0d2DERMk0jRhmPa2u1wCoYDY2fHRhFx23Sf6iTJVZUTbMiYmCIt4/zXyP9jqeBYpON8fNW5eht5CezNct2EBUSzSuWJAPnQHaB+B1eXbUBqygSqSV/noEW/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Can't Touch This</div>
-                                                <div class="unlocked">24 Feb 2020</div>
-                                            </div>
-                                            <div class="description">Dance in front of a turret blocked by a hard light bridge in co-op</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAACAUGBwME/8QAKRAAAQMDBAEEAgMBAAAAAAAAAQIDBAUGEQAHEiExFCJBURNhCBUycf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwDl/IzcW5rRq0Cj0D8UCJIhJf8AWJaCnXFFSgoJUc8cYHgZ7znUO3d1+1S0bbqleuCFa9uznxB9e0yFSneKFZfUD2UlSMEpI7OcY87ruFZFCvG21itsR/UR4byIsx5fARVLSPfnIHRSk96L9Np0bcGw4MKpXtTqfV7eDkeNTZqUMslnGcodB96lEDs+MePk71aYUhfbWVckHeC3aRUdxFVekT2/WRXmHA4iUAOQacQT7OQBGe/jH6Rs2OyIjpDaP8n40Ibkuag0ezbKgWUoiuwVf2U6phgNupkK7DfLGVcDn7GAP3pLbDXZLuvaxp6rPuP1OMp1h1105W8kKylz7Pnjn7SdXL6TSLXf6Xl7bV5MaA1UHTT3QIrhIS6OPY678ZIx8gaM22Oyzl21CnXHEfgC1FOodMeS4pxxfEj8jBSnHg8k8iRkYPzpbxZbAjtZdRkJHROsXXtxdFsPVde399IptKkvuS0UxUQOcCof5Se8noAdDwNNLoy+EnflY2st+s0O0q3R4Kj+ZLrbDMZIZhlQ4pW9gjOc+DnrBI8a8u2qkN7u7rRI/ERY4jNMtt9IaSnl7EgdJAJPQ/esLvXb2+q9WRMFAqkl0MobdmSSgOylpHbixy6PgDsnCRk5zpG7S20q2qDWZ1U4NVatPJlPtlWVNgNgcFH75lwn/uitDiR//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Iron Grip</div>
-                                                <div class="unlocked">19 Feb 2020</div>
-                                            </div>
-                                            <div class="description">Never lose a cube in Chamber 6 of the Mass and Velocity co-op course</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+41 others...</div>
+                                            0 / 51 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
